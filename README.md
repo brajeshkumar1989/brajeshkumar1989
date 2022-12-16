@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brajesh Kumar
-- 👀 I’m interested in Javascript,  Powershell, VBA
-- 🌱 I’m currently learning MERN
+- 👀 I’m interested in Javascript,  Powershell, VBA, Python, Machine Learning, Java, Linear algebra, Linux, WIndows
+- 🌱 I’m currently learning MERN, Database, Maths practice , Powershell, Python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : Brajesh071989@gmail.com 
 
