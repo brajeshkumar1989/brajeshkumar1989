@@ -1,6 +1,8 @@
 - 👋 Hi, I’m $\mathbf Brajesh Kumar$, 
-- 👀 Learning Languages to create solution.
-- 🌱 I’m currently learning Machine Learning, MERN, Database, Linear Algebra, Calculas , Powershell Advance, Python
+- 👀 I have created a Monitoring tool that monitors WebLogic Servers (40 servers) and defined automated actions like heap memory clearing etc.
+- I have written a full stack end-to-end monitoring application, where servers events I am capturing using $\mathbf {PowerShell}$ scripts and then controlling data flows using $\mathbf {ExpressJS}$ (for APIs) and then using $\mathbf {ReactJS}$ for UI UX.
+- For styling I use $\mathbf {SASS}$ , $\mathbf {Bootstrap}$ , $\mathbf {Styled Components}$ , $\mathbf {Tailwind CSS}$ 
+- 🌱 I’m currently learning Machine Learning and deep learning with Linear Algebra, Calculus, and Statistics.
 - 📫 Contact: Brajesh071989@gmail.com 
 
 <!---
